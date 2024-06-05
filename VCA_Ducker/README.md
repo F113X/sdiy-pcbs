@@ -1,4 +1,7 @@
 # VCA Ducker
+
+**Note - This project has not been made or tested. Please use at own risk and point out any errors**
+
 <img src="https://raw.githubusercontent.com/PierreIsCoding/sdiy/main/VCA_Ducker/images/front_small.jpg" width="400" />
 
 The VCA Ducker helps you to push your kickdrum through a busy mix with a technique called "ducking". Ideal for techno music where your kickdrum needs to get heard! 
