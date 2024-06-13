@@ -4,6 +4,6 @@ Perhaps I will make other pcbs for them as well, but I only made the VCA Ducker 
 |Process|Status|Time|
 |-------|------|----|
 |PCB|Designed|-|
-|Fabrication|Est. Time of Completion: 6/19/2024|-|
+|Fabrication|Est. Time of Completion: 6/25/2024|-|
 |Build|Not Done|-|
 |Test|Not Done|-|
