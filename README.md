@@ -1,5 +1,7 @@
 # sDIY PCBs
-Perhaps I will make other pcbs for them as well, but I only made the VCA Ducker right now.
+
+## VCA Ducker
+### Rev 0.1
 
 |Process|Status|Time|
 |-------|------|----|
@@ -7,3 +9,16 @@ Perhaps I will make other pcbs for them as well, but I only made the VCA Ducker 
 |Fabrication|Est. Time of Completion: 6/25/2024|-|
 |Build|Not Done|-|
 |Test|Not Done|-|
+
+
+## Luthers VCO
+### Rev 0.1
+
+|Process|Status|Time|
+|-------|------|----|
+|PCB|Designed|6/20/2024|
+|Fabrication|Not started|Est. Time of Completion: 6/25/2024|
+|Build|Not Done|-|
+|Test|Not Done|-|
+
+
