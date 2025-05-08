@@ -1,6 +1,7 @@
 # sDIY PCBs
 
 ## VCA Ducker - 8hp
+[Documentation](https://f113x.github.io/projects-documentation/archive/VCA-Duck/)
 ### Rev 0.1
 
 |Process|Status|Time|
@@ -13,6 +14,7 @@
 ***It's really nice!***
 
 ## Luthers VCO - 4hp
+[Documentation](https://f113x.github.io/projects-documentation/archive/Luthers-VCO/)
 ### Rev 0.1
 
 |Process|Status|Time|
@@ -25,6 +27,7 @@
 Mostly Working, PCB updated into rev0.2 to fix issues.
 
 ## XORBell - 8hp
+[Documentation](https://www.example.com)
 ### Rev 0.1
 
 |Process|Status|Time|
